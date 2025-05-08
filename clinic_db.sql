@@ -1,6 +1,6 @@
 
 -- Clinic Appointment and Patient Management System
--- Author: Your Name
+-- Author: Yarfulani Pero
 -- Date: May 2025
 
 CREATE DATABASE IF NOT EXISTS clinic_management;
